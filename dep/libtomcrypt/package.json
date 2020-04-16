@@ -1,0 +1,7 @@
+{
+	"name":"libtomcrypt",
+	"version":"0.0.0",
+	"dependencies":["libtommath"],
+	"compile_flag":["-O2", "-fno-stack-protector", "-DNDEBUG", "-Wall", "-DLTC_SOURCE", "-DLTM_DESC", "-DMP_32BIT"],
+	"external_dependencies":[]
+}

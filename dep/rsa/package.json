@@ -1,0 +1,7 @@
+{
+	"name":"rsa",
+	"version":"0.0.0",
+	"dependencies":["libtomcrypt", "libtommath"],
+	"compile_flag":[],
+	"external_dependencies":[]
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc librsa.a  CMakeFiles/rsa.dir/src/rsaKey.cpp.o
+/usr/bin/ranlib librsa.a

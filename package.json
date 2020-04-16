@@ -1,0 +1,8 @@
+{
+	"name":"jeSuisUnNom",
+	"version":"0.0.0",
+	"dependencies":["rsa", "libtommath", "libtomcrypt"],
+	"compile_flag":[],
+	"compile_flag_dev":[],
+	"external_dependencies":[]
+}
